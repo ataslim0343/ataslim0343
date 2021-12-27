@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Md. Taslim Ansari, a Software Engineer and a curious learner currently working at MAQ Sofware.
 - 👀 I’m interested in Web Development, Data Analyis and Data Visualizations. 
 - 🌱 I’m currently learning Backend Development in depth and focusing on System Designs.
-- 💞️ I’m looking to collaborate on Web Development, Data Analyis, Reports/Dashboards Developments and Technical Content Writing. 
+- 💞️ I’m looking to collaborate on Web Development, Data Analyis, Reports/Dashboards Development and Technical Content Writing. 
 - 📫 Reach out to me at LinkedIn - https://www.linkedin.com/in/taslim-cse/
 
 <!---
